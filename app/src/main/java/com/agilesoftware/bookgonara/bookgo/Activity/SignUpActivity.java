@@ -4,8 +4,11 @@ import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 
 import com.agilesoftware.bookgonara.bookgo.R;
+import com.agilesoftware.bookgonara.bookgo.databinding.ActivitySignUpBinding;
 
 public class SignUpActivity extends AppCompatActivity {
+
+    private ActivitySignUpBinding binding;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
