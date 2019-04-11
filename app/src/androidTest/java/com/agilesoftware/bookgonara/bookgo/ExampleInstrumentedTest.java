@@ -1,4 +1,4 @@
-package com.example.robertkim.bookgo;
+package com.agilesoftware.bookgonara.bookgo;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

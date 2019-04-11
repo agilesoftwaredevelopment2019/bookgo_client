@@ -1,4 +1,4 @@
-package com.example.robertkim.bookgo;
+package com.agilesoftware.bookgonara.bookgo;
 
 import org.junit.Test;
 
